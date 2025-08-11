@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Speedrun Ethereum — Challenges por majorabe
 
 Este repositorio centraliza mis soluciones a los desafíos de [Speedrun Ethereum](https://speedrunethereum.com/), una serie de retos prácticos para aprender y perfeccionar habilidades en desarrollo Web3 con Solidity, Hardhat y frontends Web3.
@@ -44,27 +42,4 @@ Todos los desafíos se encuentran en:
 ## Contacto
 - GitHub: [majorabe](https://github.com/majorabe)  
 - LinkedIn: [majo-rabellino-web3](https://www.linkedin.com/in/majo-rabellino-web3)
-=======
-This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app) and the [Uniswap v1 Template](https://github.com/PaulRBerg/create-eth-app/tree/develop/templates/uniswap).
-=======
-```
->>>>>>> 5959fb9 (cleanup)
 
-# install
-yarn install
-
-# start local blockchain
-yarn run node
-
-# start frontend
-yarn start
-
-# compile, test, deploy, and publish your contracts
-yarn deploy
-
-<<<<<<< HEAD
-Uniswap is a protocol for automated token exchange on Ethereum. Read more about it in the [official documentation](https://docs.uniswap.io/).
->>>>>>> 5e060f6 (Initial commit from Create Eth App)
-=======
-```
->>>>>>> 5959fb9 (cleanup)
