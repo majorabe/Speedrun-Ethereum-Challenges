@@ -1,0 +1,26 @@
+{
+  "name": "@uniswap-v1-app/monorepo",
+  "version": "1.0.0",
+  "keywords": [
+    "ethereum",
+    "react",
+    "uniswap",
+    "workspaces",
+    "yarn"
+  ],
+  "private": true,
+  "scripts": {
+    "react-app:build": "yarn workspace @uniswap-v1-app/react-app build",
+    "react-app:eject": "yarn workspace @uniswap-v1-app/react-app eject",
+    "react-app:start": "yarn workspace @uniswap-v1-app/react-app start",
+    "react-app:test": "yarn workspace @uniswap-v1-app/react-app test",
+    "node": "cd packages/buidler;npx buidler node",
+    "start": "yarn workspace @uniswap-v1-app/react-app start",
+    "deploy": "cd packages/buidler;npx buidler run scripts/deploy.js; npx buidler run scripts/publish.js"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
