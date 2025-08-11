@@ -1,6 +1,6 @@
 # 🎟 Challenge 0: Simple NFT Example
 
-## 📄 Resumen en Español
+## Resumen
 Este desafío consiste en **crear y desplegar un contrato inteligente para un NFT** usando **Scaffold-ETH**.  
 Te animo hacerlo! Aprenderás a compilar y desplegar contratos con **HardHat**, interactuar desde un **frontend React** con hooks y componentes web3, y finalmente publicar tu aplicación para que otros puedan comprar y transferir NFTs.
 
@@ -53,7 +53,7 @@ Un enlace público a tu dApp donde se puedan comprar y transferir NFTs.
 
 ---
 
-## 📄 Summary in English
+## Summary 
 This challenge is about **creating and deploying an NFT smart contract** using **Scaffold-ETH**.  
 You will compile and deploy contracts with **HardHat**, interact from a **React frontend** with web3 components and hooks, and finally publish your app so others can buy and transfer NFTs.
 
