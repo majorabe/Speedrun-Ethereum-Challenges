@@ -14,7 +14,7 @@ Cada carpeta dentro de este repositorio corresponde a un challenge diferente, e 
 ## Índice de challenges
 
 1. **Simple NFT Example**  
-   Carpeta: [`01-simple-nft-example`](./01-simple-nft-example)  
+   Carpeta: [`01-simple-nft`](./01-simple-nft)  
    **Frontend (Vercel)**: https://challenge-simple-nft-majorabe.vercel.app  
    **Contrato (Sepolia)**: https://sepolia.etherscan.io/address/0x93B7734D1321D6ED3CfB0dc1B4196aA406fFFd7d  
    *Implementación de un contrato ERC-721 básico con Hardhat y frontend en Next.js.*
